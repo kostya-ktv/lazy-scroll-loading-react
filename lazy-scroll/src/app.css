@@ -1,0 +1,13 @@
+.container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.article {
+   border: 1px solid rgb(151, 151, 151);
+   padding: 20px;
+   margin: 5px;
+   font-size: 30px;
+   border-radius: 20px;
+}
